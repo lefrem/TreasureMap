@@ -1,0 +1,4 @@
+C - 5 - 5
+M - 1 - 1 - 9
+T - 2 - 2 - 1
+A - Adventurer - 1 - 1 - N - AAGA
